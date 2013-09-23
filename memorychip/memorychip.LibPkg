@@ -19,7 +19,7 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=Default Configuration
+DefaultConfiguration=Default - All Constraints
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 OutputPath=
 
 [Document1]
-DocumentPath=power_supply.SchDoc
+DocumentPath=memorychip-component.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -48,7 +48,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=serial_port.SchDoc
+DocumentPath=memorychip-footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -62,453 +62,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-
-[Document3]
-DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 1-Digit.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document4]
-DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 2-Digit.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document5]
-DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 3-Digit.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document6]
-DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 4-Digit.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document7]
-DocumentPath=Libraries\Avago\Avago LED Display Alphanumeric.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document8]
-DocumentPath=Libraries\Avago\Avago LED Display Digit & Word Icon.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document9]
-DocumentPath=Libraries\Avago\Avago LED Display Overflow.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document10]
-DocumentPath=Libraries\Avago\Avago Optoelectronic LED.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document11]
-DocumentPath=Libraries\National Semiconductor\NSC ADC.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document12]
-DocumentPath=Libraries\National Semiconductor\NSC Amplifier.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document13]
-DocumentPath=Libraries\National Semiconductor\NSC Analog.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document14]
-DocumentPath=Libraries\National Semiconductor\NSC Audio.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document15]
-DocumentPath=Libraries\National Semiconductor\NSC Comparator.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document16]
-DocumentPath=Libraries\National Semiconductor\NSC DAC.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document17]
-DocumentPath=Libraries\National Semiconductor\NSC Interface.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document18]
-DocumentPath=Libraries\National Semiconductor\NSC LDO.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document19]
-DocumentPath=Libraries\National Semiconductor\NSC Legacy.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document20]
-DocumentPath=Libraries\National Semiconductor\NSC MiscPower.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document21]
-DocumentPath=Libraries\National Semiconductor\NSC OtherParts.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document22]
-DocumentPath=Libraries\National Semiconductor\NSC Switch Caps.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document23]
-DocumentPath=Libraries\National Semiconductor\NSC Switcher.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document24]
-DocumentPath=Libraries\National Semiconductor\NSC Temperature Sensor.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document25]
-DocumentPath=Libraries\National Semiconductor\NSC Voltage Reference.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document26]
-DocumentPath=microcontroller.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document27]
-DocumentPath=fpga_and_serial.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document28]
-DocumentPath=FPGAs.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document29]
-DocumentPath=componentLibrary.CmpLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Configuration1]
-Name=Default Configuration
-ParameterCount=0
-ConstraintFileCount=0
-ReleaseItemId=
-CurrentRevision=
-Variant=
-GenerateBOM=1
-OutputJobsCount=0
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Send To OneNote 2010
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -639,7 +197,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Send To OneNote 2010
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -660,112 +218,112 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Send To OneNote 2010
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=Composite
-OutputName1=Composite Drawing
+OutputType1=Assembler Source Print
+OutputName1=Assembler Source Prints
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType2=Logic Analyser Print
-OutputName2=Logic Analyser Prints
+OutputType2=C Source Print
+OutputName2=C Source Prints
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType3=OpenBus Print
-OutputName3=OpenBus Prints
+OutputType3=C/C++ Header Print
+OutputName3=C/C++ Header Prints
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType4=PCB 3D Print
-OutputName4=PCB 3D Prints
+OutputType4=C++ Source Print
+OutputName4=C++ Source Prints
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType5=PCB Print
-OutputName5=PCB Prints
+OutputType5=Composite
+OutputName5=Composite Drawing
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType6=Schematic Print
-OutputName6=Schematic Prints
+OutputType6=Logic Analyser Print
+OutputName6=Logic Analyser Prints
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType7=SimView Print
-OutputName7=SimView Prints
+OutputType7=OpenBus Print
+OutputName7=OpenBus Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType8=Wave Print
-OutputName8=Wave Prints
+OutputType8=PCB 3D Print
+OutputName8=PCB 3D Print
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType9=WaveSim Print
-OutputName9=WaveSim Prints
+OutputType9=PCB 3D Video
+OutputName9=PCB 3D Video
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType10=Assembler Source Print
-OutputName10=Assembler Source Prints
+OutputType10=PCB Print
+OutputName10=PCB Prints
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType11=C Source Print
-OutputName11=C Source Prints
+OutputType11=PCBLIB Print
+OutputName11=PCBLIB Prints
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType12=C/C++ Header Print
-OutputName12=C/C++ Header Prints
+OutputType12=Report Print
+OutputName12=Report Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType13=C++ Source Print
-OutputName13=C++ Source Prints
+OutputType13=Schematic Print
+OutputName13=Schematic Prints
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType14=PCB 3D Video
-OutputName14=PCB 3D Video
+OutputType14=SimView Print
+OutputName14=SimView Prints
 OutputDocumentPath14=
-OutputVariantName14=[No Variations]
+OutputVariantName14=
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType15=PCBLIB Print
-OutputName15=PCBLIB Prints
+OutputType15=Software Platform Print
+OutputName15=Software Platform Prints
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
 PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType16=Report Print
-OutputName16=Report Prints
+OutputType16=VHDL Print
+OutputName16=VHDL Prints
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
 PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType17=Software Platform Print
-OutputName17=Software Platform Prints
+OutputType17=Wave Print
+OutputName17=Wave Prints
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType18=VHDL Print
-OutputName18=VHDL Prints
+OutputType18=WaveSim Print
+OutputName18=WaveSim Prints
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
@@ -774,7 +332,7 @@ PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Send To OneNote 2010
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -796,7 +354,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Send To OneNote 2010
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -852,7 +410,7 @@ OutputDefault9=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Send To OneNote 2010
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -889,7 +447,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Send To OneNote 2010
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1077,14 +635,14 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType2=Electrical Rules Check
-OutputName2=Electrical Rules Check
+OutputType2=Differences Report
+OutputName2=Differences Report
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType3=Differences Report
-OutputName3=Differences Report
+OutputType3=Electrical Rules Check
+OutputName3=Electrical Rules Check
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
