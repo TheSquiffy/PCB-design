@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 OutputPath=
 
 [Document1]
-DocumentPath=power_supply.SchDoc
+DocumentPath=FPGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -48,7 +48,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=serial_port.SchDoc
+DocumentPath=power_supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,7 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 1-Digit.IntLib
+DocumentPath=serial_port.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 2-Digit.IntLib
+DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 1-Digit.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -96,7 +96,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 3-Digit.IntLib
+DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 2-Digit.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -112,7 +112,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 4-Digit.IntLib
+DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 3-Digit.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -128,7 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document7]
-DocumentPath=Libraries\Avago\Avago LED Display Alphanumeric.IntLib
+DocumentPath=Libraries\Avago\Avago LED Display 7-Segment, 4-Digit.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -144,7 +144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
-DocumentPath=Libraries\Avago\Avago LED Display Digit & Word Icon.IntLib
+DocumentPath=Libraries\Avago\Avago LED Display Alphanumeric.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -160,7 +160,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document9]
-DocumentPath=Libraries\Avago\Avago LED Display Overflow.IntLib
+DocumentPath=Libraries\Avago\Avago LED Display Digit & Word Icon.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -176,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
-DocumentPath=Libraries\Avago\Avago Optoelectronic LED.IntLib
+DocumentPath=Libraries\Avago\Avago LED Display Overflow.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -192,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document11]
-DocumentPath=Libraries\National Semiconductor\NSC ADC.IntLib
+DocumentPath=Libraries\Avago\Avago Optoelectronic LED.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document12]
-DocumentPath=Libraries\National Semiconductor\NSC Amplifier.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC ADC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -224,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document13]
-DocumentPath=Libraries\National Semiconductor\NSC Analog.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC Amplifier.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -240,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document14]
-DocumentPath=Libraries\National Semiconductor\NSC Audio.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC Analog.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -256,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document15]
-DocumentPath=Libraries\National Semiconductor\NSC Comparator.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC Audio.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -272,7 +272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document16]
-DocumentPath=Libraries\National Semiconductor\NSC DAC.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC Comparator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document17]
-DocumentPath=Libraries\National Semiconductor\NSC Interface.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC DAC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -304,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document18]
-DocumentPath=Libraries\National Semiconductor\NSC LDO.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC Interface.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -320,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document19]
-DocumentPath=Libraries\National Semiconductor\NSC Legacy.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC LDO.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -336,7 +336,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document20]
-DocumentPath=Libraries\National Semiconductor\NSC MiscPower.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC Legacy.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -352,7 +352,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document21]
-DocumentPath=Libraries\National Semiconductor\NSC OtherParts.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC MiscPower.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -368,7 +368,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document22]
-DocumentPath=Libraries\National Semiconductor\NSC Switch Caps.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC OtherParts.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -384,7 +384,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document23]
-DocumentPath=Libraries\National Semiconductor\NSC Switcher.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC Switch Caps.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -400,7 +400,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document24]
-DocumentPath=Libraries\National Semiconductor\NSC Temperature Sensor.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC Switcher.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -416,7 +416,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document25]
-DocumentPath=Libraries\National Semiconductor\NSC Voltage Reference.IntLib
+DocumentPath=Libraries\National Semiconductor\NSC Temperature Sensor.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -432,7 +432,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document26]
-DocumentPath=microcontroller.SchDoc
+DocumentPath=Libraries\National Semiconductor\NSC Voltage Reference.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -448,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document27]
-DocumentPath=FPGAs.SchDoc
+DocumentPath=microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -545,6 +545,22 @@ GenerateClassCluster=0
 
 [Document33]
 DocumentPath=buttons.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document34]
+DocumentPath=Libraries\Xilinx_Spartan-6\Xilinx Spartan-6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
