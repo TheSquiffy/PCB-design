@@ -1,0 +1,15 @@
+Component   : 1x1POS_HEAD-SOCK_LOWPROF
+PCB Library : PBL - THD Packages.PcbLib
+Date        : 10.10.2013
+Time        : 15:05:10
+
+
+
+Dimension : 3.505 x 3.15 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       0        0
+ Multi Layer                 1          0        0       0        0
+--------------------------------------------------------------------
+ Total                       1          4        0       0        0
