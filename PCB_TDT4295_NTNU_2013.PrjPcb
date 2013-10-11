@@ -624,7 +624,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document38]
-DocumentPath=headers\header-2x8.SchLib
+DocumentPath=switch-toggle.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -640,7 +640,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document39]
-DocumentPath=microcontroller.Harness
+DocumentPath=oscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -656,7 +656,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document40]
-DocumentPath=FPGA.Harness
+DocumentPath=crystal2\crystal.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -672,7 +672,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document41]
-DocumentPath=serial_port.Harness
+DocumentPath=headers\header-2x8.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -688,7 +688,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document42]
-DocumentPath=memorychip_schematic.Harness
+DocumentPath=microcontroller.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -704,7 +704,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document43]
-DocumentPath=switches\switches.SchLib
+DocumentPath=FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -720,6 +720,54 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document44]
+DocumentPath=serial_port.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document45]
+DocumentPath=memorychip_schematic.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document46]
+DocumentPath=switches\switches.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document47]
 DocumentPath=test_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
