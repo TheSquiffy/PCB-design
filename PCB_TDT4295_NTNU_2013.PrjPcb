@@ -480,7 +480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document29]
-DocumentPath=memorychip\memorychip-component.SchLib
+DocumentPath=switches\switch-toggle.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -496,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document30]
-DocumentPath=memorychip\memorychip-footprint.PcbLib
+DocumentPath=oscillator\oscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -512,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document31]
-DocumentPath=memorychip_schematic.SchDoc
+DocumentPath=memorychip\memorychip-component.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -528,7 +528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document32]
-DocumentPath=leds.SchDoc
+DocumentPath=memorychip\memorychip-footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -544,7 +544,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document33]
-DocumentPath=buttons.SchDoc
+DocumentPath=memorychip_schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -560,7 +560,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document34]
-DocumentPath=Libraries\Xilinx_Spartan-6\Xilinx Spartan-6.IntLib
+DocumentPath=leds.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -576,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document35]
-DocumentPath=headers\header-footprints.PcbLib
+DocumentPath=buttons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -592,7 +592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document36]
-DocumentPath=switches\switch-button.PcbLib
+DocumentPath=Libraries\Xilinx_Spartan-6\Xilinx Spartan-6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -608,7 +608,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document37]
-DocumentPath=switch-toggle.SchLib
+DocumentPath=headers\header-footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -624,7 +624,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document38]
-DocumentPath=oscillator.SchLib
+DocumentPath=switches\switch-button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
