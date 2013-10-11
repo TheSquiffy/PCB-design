@@ -512,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document31]
-DocumentPath=memorychip\memorychip-component.SchLib
+DocumentPath=crystal\crystal.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -528,7 +528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document32]
-DocumentPath=memorychip\memorychip-footprint.PcbLib
+DocumentPath=memorychip\memorychip-component.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -544,7 +544,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document33]
-DocumentPath=psu_toggle_switch.SchDoc
+DocumentPath=memorychip\memorychip-footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -560,7 +560,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document34]
-DocumentPath=memorychip_schematic.SchDoc
+DocumentPath=psu_toggle_switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -576,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document35]
-DocumentPath=leds.SchDoc
+DocumentPath=memorychip_schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -592,7 +592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document36]
-DocumentPath=buttons.SchDoc
+DocumentPath=leds.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -608,7 +608,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document37]
-DocumentPath=Libraries\Xilinx_Spartan-6\Xilinx Spartan-6.IntLib
+DocumentPath=buttons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -624,7 +624,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document38]
-DocumentPath=headers\header-footprints.PcbLib
+DocumentPath=Libraries\Xilinx_Spartan-6\Xilinx Spartan-6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -640,7 +640,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document39]
-DocumentPath=switches\switch-button.PcbLib
+DocumentPath=headers\header-footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -656,7 +656,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document40]
-DocumentPath=headers\header-2x8.SchLib
+DocumentPath=switches\switch-button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -672,7 +672,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document41]
-DocumentPath=microcontroller.Harness
+DocumentPath=headers\header-2x8.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -688,7 +688,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document42]
-DocumentPath=FPGA.Harness
+DocumentPath=microcontroller.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -704,7 +704,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document43]
-DocumentPath=serial_port.Harness
+DocumentPath=FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -720,7 +720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document44]
-DocumentPath=memorychip_schematic.Harness
+DocumentPath=serial_port.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -736,7 +736,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document45]
-DocumentPath=switches\switch-button.SchLib
+DocumentPath=memorychip_schematic.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -752,7 +752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document46]
-DocumentPath=test_pcb.PcbDoc
+DocumentPath=switches\switch-button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -768,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document47]
-DocumentPath=capacitors\cap-pol-size-B.PcbLib
+DocumentPath=test_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -784,7 +784,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document48]
-DocumentPath=capacitors\cap-pol-size-B.SchLib
+DocumentPath=capacitors\cap-pol-size-B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -800,7 +800,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document49]
-DocumentPath=oscillator.SchDoc
+DocumentPath=capacitors\cap-pol-size-B.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -816,7 +816,39 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document50]
+DocumentPath=oscillator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document51]
 DocumentPath=crystal.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document52]
+DocumentPath=crystal.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
