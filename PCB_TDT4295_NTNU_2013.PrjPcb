@@ -640,22 +640,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document39]
-DocumentPath=headers\header-footprints.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document40]
 DocumentPath=switches\switch-button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -671,23 +655,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document41]
-DocumentPath=headers\header-2x8.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document42]
+[Document40]
 DocumentPath=microcontroller.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -703,7 +671,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document43]
+[Document41]
 DocumentPath=FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -719,7 +687,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document44]
+[Document42]
 DocumentPath=serial_port.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +703,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document45]
+[Document43]
 DocumentPath=memorychip_schematic.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +719,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document46]
+[Document44]
 DocumentPath=switches\switch-button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -767,7 +735,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document47]
+[Document45]
 DocumentPath=test_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -783,7 +751,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document48]
+[Document46]
 DocumentPath=capacitors\cap-pol-size-B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -799,7 +767,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document49]
+[Document47]
 DocumentPath=capacitors\cap-pol-size-B.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -815,7 +783,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document50]
+[Document48]
 DocumentPath=oscillator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +799,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document51]
+[Document49]
 DocumentPath=crystal.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,8 +815,24 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document52]
+[Document50]
 DocumentPath=crystal.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document51]
+DocumentPath=microcontroller_reset_button.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
