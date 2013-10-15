@@ -1,6 +1,6 @@
 [Design]
 Version=1.0
-HierarchyMode=2
+HierarchyMode=0
 ChannelRoomNamingStyle=0
 LogFolderPath=
 ReleasesFolder=
@@ -18,7 +18,7 @@ PinSwapBy_Pin=1
 AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
-NetlistSinglePinNets=0
+NetlistSinglePinNets=1
 DefaultConfiguration=Default Configuration
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
