@@ -592,7 +592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document36]
-DocumentPath=leds.SchDoc
+DocumentPath=leds_logo.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -608,7 +608,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document37]
-DocumentPath=buttons.SchDoc
+DocumentPath=leds.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -624,7 +624,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document38]
-DocumentPath=Libraries\Xilinx_Spartan-6\Xilinx Spartan-6.IntLib
+DocumentPath=buttons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -640,7 +640,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document39]
-DocumentPath=switches\switch-button.PcbLib
+DocumentPath=Libraries\Xilinx_Spartan-6\Xilinx Spartan-6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -656,7 +656,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document40]
-DocumentPath=microcontroller.Harness
+DocumentPath=switches\switch-button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -672,7 +672,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document41]
-DocumentPath=FPGA.Harness
+DocumentPath=microcontroller.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -688,7 +688,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document42]
-DocumentPath=serial_port.Harness
+DocumentPath=FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -704,7 +704,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document43]
-DocumentPath=memorychip_schematic.Harness
+DocumentPath=serial_port.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -720,7 +720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document44]
-DocumentPath=switches\switch-button.SchLib
+DocumentPath=memorychip_schematic.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -736,7 +736,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document45]
-DocumentPath=test_pcb.PcbDoc
+DocumentPath=switches\switch-button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -752,7 +752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document46]
-DocumentPath=capacitors\cap-pol-size-B.PcbLib
+DocumentPath=test_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -768,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document47]
-DocumentPath=capacitors\cap-pol-size-B.SchLib
+DocumentPath=capacitors\cap-pol-size-B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -784,7 +784,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document48]
-DocumentPath=oscillator.SchDoc
+DocumentPath=capacitors\cap-pol-size-B.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -800,7 +800,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document49]
-DocumentPath=crystal.schdoc
+DocumentPath=oscillator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -816,7 +816,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document50]
-DocumentPath=crystal.Harness
+DocumentPath=crystal.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -832,7 +832,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document51]
-DocumentPath=microcontroller_reset_button.schdoc
+DocumentPath=crystal.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -848,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document52]
-DocumentPath=crystal\crystal-footprint.PcbLib
+DocumentPath=microcontroller_reset_button.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -864,7 +864,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document53]
-DocumentPath=oscillator\oscillator.PcbLib
+DocumentPath=crystal\crystal-footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -880,7 +880,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document54]
-DocumentPath=switches\switch-toggle.PcbLib
+DocumentPath=oscillator\oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -896,7 +896,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document55]
-DocumentPath=leds-logo.SchDoc
+DocumentPath=switches\switch-toggle.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
