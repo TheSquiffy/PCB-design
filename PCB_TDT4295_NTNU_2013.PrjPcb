@@ -752,7 +752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document46]
-DocumentPath=Libraries\USB\PBL - SMD Packages.PcbLib
+DocumentPath=Con Card.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -768,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document47]
-DocumentPath=capacitors\cap-pol-size-B.PcbLib
+DocumentPath=Libraries\USB\PBL - SMD Packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -784,7 +784,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document48]
-DocumentPath=capacitors\cap-pol-size-B.SchLib
+DocumentPath=capacitors\cap-pol-size-B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -800,6 +800,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document49]
+DocumentPath=capacitors\cap-pol-size-B.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document50]
 DocumentPath=oscillator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -815,7 +831,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document50]
+[Document51]
 DocumentPath=crystal.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +847,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document51]
+[Document52]
 DocumentPath=crystal.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,7 +863,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document52]
+[Document53]
 DocumentPath=microcontroller_reset_button.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -863,24 +879,8 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document53]
-DocumentPath=crystal\crystal-footprint.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
 [Document54]
-DocumentPath=SDcard\Con Card.PcbLib
+DocumentPath=crystal\crystal-footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1041,6 +1041,54 @@ GenerateClassCluster=0
 
 [Document64]
 DocumentPath=PCB_TDT4295_NTNU_2013.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document65]
+DocumentPath=Libraries\WE\Altium_WE_eiSos_WE-CBF.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document66]
+DocumentPath=Libraries\WE\Altium_WE_eiSos_WE-CNSW.intlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document67]
+DocumentPath=Libraries\WE\WE-TVS.intlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
