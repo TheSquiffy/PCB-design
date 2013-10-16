@@ -752,7 +752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document46]
-DocumentPath=capacitors\cap-pol-size-B.PcbLib
+DocumentPath=Libraries\USB\PBL - SMD Packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -768,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document47]
-DocumentPath=capacitors\cap-pol-size-B.SchLib
+DocumentPath=capacitors\cap-pol-size-B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -784,6 +784,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document48]
+DocumentPath=capacitors\cap-pol-size-B.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document49]
 DocumentPath=oscillator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -799,7 +815,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document49]
+[Document50]
 DocumentPath=crystal.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -815,7 +831,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document50]
+[Document51]
 DocumentPath=crystal.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +847,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document51]
+[Document52]
 DocumentPath=microcontroller_reset_button.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,7 +863,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document52]
+[Document53]
 DocumentPath=crystal\crystal-footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -863,7 +879,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document53]
+[Document54]
 DocumentPath=SDcard\Con Card.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -879,7 +895,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document54]
+[Document55]
 DocumentPath=oscillator\oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -895,7 +911,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document55]
+[Document56]
 DocumentPath=switches\switch-toggle.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -911,7 +927,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document56]
+[Document57]
 DocumentPath=headers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -927,7 +943,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document57]
+[Document58]
 DocumentPath=headers.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -943,7 +959,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document58]
+[Document59]
 DocumentPath=sdsheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -959,7 +975,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document59]
+[Document60]
 DocumentPath=sdsheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -975,7 +991,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document60]
+[Document61]
 DocumentPath=USBdevice.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -991,7 +1007,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document61]
+[Document62]
 DocumentPath=USBdevice.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1007,7 +1023,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document62]
+[Document63]
 DocumentPath=librarySDcard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1039,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document63]
+[Document64]
 DocumentPath=PCB_TDT4295_NTNU_2013.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
