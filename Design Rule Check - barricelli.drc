@@ -1,0 +1,773 @@
+Protel Design System Design Rule Check
+PCB File : F:\Users\eirik\datamaskin\PCB-design\barricelli.PcbDoc
+Date     : 21.10.2013
+Time     : 18:36:40
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad POWER IN-1(66.4mm,142mm)  Multi-Layer on Net TOGGLE OUT
+   Pad POWER IN-2(60.2mm,142mm)  Multi-Layer on Net GND
+   Pad POWER IN-3(63.2mm,137mm)  Multi-Layer on Net TOGGLE OUT
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad POWER IN-1(66.4mm,142mm)  Multi-Layer
+   Pad POWER IN-2(60.2mm,142mm)  Multi-Layer
+   Pad POWER IN-3(63.2mm,137mm)  Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (IsTrack),(not IsVia)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.2mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.35mm) (MaxWidth=0.6mm) (PreferedWidth=0.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+   Violation between Track (180.95mm,156.718mm)(180.95mm,161.1mm)  Top Layer and 
+                     Via (180.899mm,159.449mm) Top Layer to Bottom Layer
+   Violation between Track (180.899mm,159.449mm)(181.3mm,159.85mm)  Top Layer and 
+                     Track (180.95mm,156.718mm)(180.95mm,161.1mm)  Top Layer
+   Violation between Track (182.552mm,160.198mm)(183.303mm,160.198mm)  Top Layer and 
+                     Track (182.9mm,160.379mm)(182.9mm,160.65mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.303mm,160.198mm)  Top Layer and 
+                     Track (182.9mm,160.379mm)(183.37mm,159.909mm)  Top Layer
+   Violation between Track (182.552mm,160.198mm)(183.303mm,160.198mm)  Top Layer and 
+                     Track (182.9mm,160.379mm)(183.37mm,159.909mm)  Top Layer
+   Violation between Track (183.391mm,159.38mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.37mm,159.909mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.391mm,159.38mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.37mm,159.909mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.303mm,160.198mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.37mm,159.909mm)  Top Layer
+   Violation between Track (183.391mm,159.38mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.446mm,159.436mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.391mm,159.38mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.446mm,159.436mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.303mm,160.198mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.446mm,159.436mm)  Top Layer
+   Violation between Track (183.391mm,159.38mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (183.446mm,159.436mm)(183.896mm,159.436mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.391mm,159.38mm)  Top Layer and 
+                     Track (183.446mm,159.436mm)(183.896mm,159.436mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.303mm,160.198mm)  Top Layer and 
+                     Track (183.446mm,159.436mm)(183.896mm,159.436mm)  Top Layer
+   Violation between Track (184.048mm,157.988mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (183.446mm,159.436mm)(183.896mm,159.436mm)  Top Layer
+   Violation between Track (183.391mm,159.38mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (183.896mm,159.436mm)(184.15mm,159.182mm)  Top Layer
+   Violation between Track (184.048mm,157.988mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (183.896mm,159.436mm)(184.15mm,159.182mm)  Top Layer
+   Violation between Track (184.048mm,157.988mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (184.15mm,158.648mm)(184.15mm,159.182mm)  Top Layer
+   Violation between Track (184.048mm,157.988mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (184.15mm,158.648mm)(184.5mm,158.298mm)  Top Layer
+   Violation between Track (183.871mm,158.115mm)(185.014mm,158.115mm)  Top Layer and 
+                     Track (184.15mm,158.648mm)(184.5mm,158.298mm)  Top Layer
+   Violation between Track (185.014mm,158.115mm)(186.207mm,156.921mm)  Top Layer and 
+                     Track (184.5mm,158.298mm)(185.795mm,158.298mm)  Top Layer
+   Violation between Track (183.871mm,158.115mm)(185.014mm,158.115mm)  Top Layer and 
+                     Track (184.5mm,158.298mm)(185.795mm,158.298mm)  Top Layer
+   Violation between Track (183.7mm,159.05mm)(183.871mm,158.879mm)  Top Layer and 
+                     Track (184.048mm,157.988mm)(184.048mm,159.38mm)  Top Layer
+   Violation between Track (183.871mm,158.115mm)(183.871mm,158.879mm)  Top Layer and 
+                     Track (184.048mm,157.988mm)(184.048mm,159.38mm)  Top Layer
+   Violation between Track (183.871mm,158.115mm)(185.014mm,158.115mm)  Top Layer and 
+                     Track (184.048mm,157.988mm)(184.048mm,159.38mm)  Top Layer
+   Violation between Track (183.871mm,158.115mm)(185.014mm,158.115mm)  Top Layer and 
+                     Track (184.048mm,157.988mm)(184.15mm,157.886mm)  Top Layer
+   Violation between Track (183.363mm,163.779mm)(183.363mm,164.523mm)  Top Layer and 
+                     Track (183.236mm,162.586mm)(183.236mm,164.033mm)  Top Layer
+   Violation between Track (183.083mm,163.5mm)(183.363mm,163.779mm)  Top Layer and 
+                     Track (183.236mm,162.586mm)(183.236mm,164.033mm)  Top Layer
+   Violation between Track (182.778mm,163.5mm)(183.083mm,163.5mm)  Top Layer and 
+                     Track (183.236mm,162.586mm)(183.236mm,164.033mm)  Top Layer
+   Violation between Track (183.363mm,163.779mm)(183.363mm,164.523mm)  Top Layer and 
+                     Track (183.083mm,164.033mm)(183.236mm,164.033mm)  Top Layer
+Rule Violations :30
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=5mm) (Preferred=0.1mm) (All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Track (112mm,142.6mm)(112mm,143.5mm)  Top Overlay and 
+                     Pad XTAL-1(111.1mm,143mm)  Top Layer
+   Violation between Track (112mm,143.5mm)(112.3mm,143.5mm)  Top Overlay and 
+                     Pad XTAL-1(111.1mm,143mm)  Top Layer
+   Violation between Track (112mm,143mm)(112.3mm,143mm)  Top Overlay and 
+                     Pad XTAL-1(111.1mm,143mm)  Top Layer
+   Violation between Track (110.2mm,141.6mm)(110.2mm,144.4mm)  Top Overlay and 
+                     Pad XTAL-1(111.1mm,143mm)  Top Layer
+   Violation between Track (110.2mm,141.6mm)(115.9mm,141.6mm)  Top Overlay and 
+                     Pad XTAL-1(111.1mm,143mm)  Top Layer
+   Violation between Track (110.2mm,144.4mm)(115.9mm,144.4mm)  Top Overlay and 
+                     Pad XTAL-1(111.1mm,143mm)  Top Layer
+   Violation between Track (113.9mm,143.1mm)(114mm,143mm)  Top Overlay and 
+                     Pad XTAL-2(114.9mm,143mm)  Top Layer
+   Violation between Track (114mm,142.9mm)(114mm,143mm)  Top Overlay and 
+                     Pad XTAL-2(114.9mm,143mm)  Top Layer
+   Violation between Track (113.9mm,142.8mm)(114mm,142.9mm)  Top Overlay and 
+                     Pad XTAL-2(114.9mm,143mm)  Top Layer
+   Violation between Track (113.9mm,143.4mm)(114mm,143.3mm)  Top Overlay and 
+                     Pad XTAL-2(114.9mm,143mm)  Top Layer
+   Violation between Track (115.9mm,141.6mm)(115.9mm,144.4mm)  Top Overlay and 
+                     Pad XTAL-2(114.9mm,143mm)  Top Layer
+   Violation between Track (110.2mm,141.6mm)(115.9mm,141.6mm)  Top Overlay and 
+                     Pad XTAL-2(114.9mm,143mm)  Top Layer
+   Violation between Track (110.2mm,144.4mm)(115.9mm,144.4mm)  Top Overlay and 
+                     Pad XTAL-2(114.9mm,143mm)  Top Layer
+   Violation between Track (70.861mm,196.099mm)(70.861mm,199.401mm)  Top Overlay and 
+                     Pad USB_D-1(71.75mm,198.7mm)  Top Layer
+   Violation between Track (70.861mm,196.099mm)(70.861mm,199.401mm)  Top Overlay and 
+                     Pad USB_D-3(71.75mm,196.8mm)  Top Layer
+   Violation between Track (70.861mm,196.099mm)(70.861mm,199.401mm)  Top Overlay and 
+                     Pad USB_D-2(71.75mm,197.75mm)  Top Layer
+   Violation between Track (71.451mm,152.368mm)(72.34mm,152.368mm)  Top Overlay and 
+                     Pad E2-1(72.975mm,153mm)  Top Layer
+   Violation between Track (73.61mm,152.368mm)(74.499mm,152.368mm)  Top Overlay and 
+                     Pad E2-1(72.975mm,153mm)  Top Layer
+   Violation between Track (70.816mm,156.432mm)(72.34mm,156.432mm)  Top Overlay and 
+                     Pad E2-2(72.975mm,155.8mm)  Top Layer
+   Violation between Track (73.61mm,156.432mm)(75.134mm,156.432mm)  Top Overlay and 
+                     Pad E2-2(72.975mm,155.8mm)  Top Layer
+   Violation between Track (80.476mm,170.368mm)(81.365mm,170.368mm)  Top Overlay and 
+                     Pad E1-1(82mm,171mm)  Top Layer
+   Violation between Track (82.635mm,170.368mm)(83.524mm,170.368mm)  Top Overlay and 
+                     Pad E1-1(82mm,171mm)  Top Layer
+   Violation between Track (79.841mm,174.432mm)(81.365mm,174.432mm)  Top Overlay and 
+                     Pad E1-2(82mm,173.8mm)  Top Layer
+   Violation between Track (82.635mm,174.432mm)(84.159mm,174.432mm)  Top Overlay and 
+                     Pad E1-2(82mm,173.8mm)  Top Layer
+   Violation between Track (71.451mm,161.368mm)(72.34mm,161.368mm)  Top Overlay and 
+                     Pad E3-1(72.975mm,162mm)  Top Layer
+   Violation between Track (73.61mm,161.368mm)(74.499mm,161.368mm)  Top Overlay and 
+                     Pad E3-1(72.975mm,162mm)  Top Layer
+   Violation between Track (70.816mm,165.432mm)(72.34mm,165.432mm)  Top Overlay and 
+                     Pad E3-2(72.975mm,164.8mm)  Top Layer
+   Violation between Track (73.61mm,165.432mm)(75.134mm,165.432mm)  Top Overlay and 
+                     Pad E3-2(72.975mm,164.8mm)  Top Layer
+   Violation between Track (71.451mm,170.368mm)(72.34mm,170.368mm)  Top Overlay and 
+                     Pad E4-1(72.975mm,171mm)  Top Layer
+   Violation between Track (73.61mm,170.368mm)(74.499mm,170.368mm)  Top Overlay and 
+                     Pad E4-1(72.975mm,171mm)  Top Layer
+   Violation between Track (70.816mm,174.432mm)(72.34mm,174.432mm)  Top Overlay and 
+                     Pad E4-2(72.975mm,173.8mm)  Top Layer
+   Violation between Track (73.61mm,174.432mm)(75.134mm,174.432mm)  Top Overlay and 
+                     Pad E4-2(72.975mm,173.8mm)  Top Layer
+   Violation between Track (80.476mm,179.218mm)(81.365mm,179.218mm)  Top Overlay and 
+                     Pad E5-1(82mm,179.85mm)  Top Layer
+   Violation between Track (82.635mm,179.218mm)(83.524mm,179.218mm)  Top Overlay and 
+                     Pad E5-1(82mm,179.85mm)  Top Layer
+   Violation between Track (79.841mm,183.282mm)(81.365mm,183.282mm)  Top Overlay and 
+                     Pad E5-2(82mm,182.65mm)  Top Layer
+   Violation between Track (82.635mm,183.282mm)(84.159mm,183.282mm)  Top Overlay and 
+                     Pad E5-2(82mm,182.65mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-2(75mm,216.839mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-3(75mm,219.379mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-4(75mm,221.919mm)  Top Layer
+   Violation between Track (52.267mm,221.157mm)(81.35mm,221.157mm)  Top Overlay and 
+                     Pad SD1-4(75mm,221.919mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-1(75mm,214.299mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-9(75mm,211.759mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-12(75mm,210.108mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-13(75mm,208.711mm)  Top Layer
+   Violation between Track (56.712mm,207.949mm)(73.476mm,207.949mm)  Top Overlay and 
+                     Pad SD1-13(75mm,208.711mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-5(75mm,224.459mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-6(75mm,226.999mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-7(75mm,229.539mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-8(75mm,231.19mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-11(75mm,233.095mm)  Top Layer
+   Violation between Track (73.476mm,208.076mm)(73.476mm,235.889mm)  Top Overlay and 
+                     Pad SD1-10(75mm,235mm)  Top Layer
+   Violation between Track (81.936mm,118.968mm)(82.825mm,118.968mm)  Top Overlay and 
+                     Pad E9-1(83.46mm,119.6mm)  Top Layer
+   Violation between Track (84.095mm,118.968mm)(84.984mm,118.968mm)  Top Overlay and 
+                     Pad E9-1(83.46mm,119.6mm)  Top Layer
+   Violation between Track (84.095mm,123.032mm)(85.619mm,123.032mm)  Top Overlay and 
+                     Pad E9-2(83.46mm,122.4mm)  Top Layer
+   Violation between Track (81.301mm,123.032mm)(82.825mm,123.032mm)  Top Overlay and 
+                     Pad E9-2(83.46mm,122.4mm)  Top Layer
+   Violation between Track (81.936mm,129.968mm)(82.825mm,129.968mm)  Top Overlay and 
+                     Pad E8-1(83.46mm,130.6mm)  Top Layer
+   Violation between Track (84.095mm,129.968mm)(84.984mm,129.968mm)  Top Overlay and 
+                     Pad E8-1(83.46mm,130.6mm)  Top Layer
+   Violation between Track (84.095mm,134.032mm)(85.619mm,134.032mm)  Top Overlay and 
+                     Pad E8-2(83.46mm,133.4mm)  Top Layer
+   Violation between Track (81.301mm,134.032mm)(82.825mm,134.032mm)  Top Overlay and 
+                     Pad E8-2(83.46mm,133.4mm)  Top Layer
+   Violation between Track (81.936mm,97.968mm)(82.825mm,97.968mm)  Top Overlay and 
+                     Pad E11-1(83.46mm,98.6mm)  Top Layer
+   Violation between Track (84.095mm,97.968mm)(84.984mm,97.968mm)  Top Overlay and 
+                     Pad E11-1(83.46mm,98.6mm)  Top Layer
+   Violation between Track (84.095mm,102.032mm)(85.619mm,102.032mm)  Top Overlay and 
+                     Pad E11-2(83.46mm,101.4mm)  Top Layer
+   Violation between Track (81.301mm,102.032mm)(82.825mm,102.032mm)  Top Overlay and 
+                     Pad E11-2(83.46mm,101.4mm)  Top Layer
+   Violation between Track (81.936mm,108.968mm)(82.825mm,108.968mm)  Top Overlay and 
+                     Pad E10-1(83.46mm,109.6mm)  Top Layer
+   Violation between Track (84.095mm,108.968mm)(84.984mm,108.968mm)  Top Overlay and 
+                     Pad E10-1(83.46mm,109.6mm)  Top Layer
+   Violation between Track (84.095mm,113.032mm)(85.619mm,113.032mm)  Top Overlay and 
+                     Pad E10-2(83.46mm,112.4mm)  Top Layer
+   Violation between Track (81.301mm,113.032mm)(82.825mm,113.032mm)  Top Overlay and 
+                     Pad E10-2(83.46mm,112.4mm)  Top Layer
+   Violation between Track (125.1mm,140.3mm)(125.1mm,142.1mm)  Top Overlay and 
+                     Pad OSC-2(126mm,143.4mm)  Top Layer
+   Violation between Track (127.3mm,137.9mm)(130mm,137.9mm)  Top Overlay and 
+                     Pad OSC-4(131.2mm,139mm)  Top Layer
+   Violation between Track (132.1mm,140.3mm)(132.1mm,142.1mm)  Top Overlay and 
+                     Pad OSC-4(131.2mm,139mm)  Top Layer
+   Violation between Track (125.1mm,140.3mm)(125.1mm,142.1mm)  Top Overlay and 
+                     Pad OSC-3(126mm,139mm)  Top Layer
+   Violation between Track (67.3mm,144.2mm)(67.3mm,146.5mm)  Top Overlay and 
+                     Pad POWER IN-1(66.4mm,142mm)  Multi-Layer
+   Violation between Track (67.3mm,137.5mm)(67.3mm,139.8mm)  Top Overlay and 
+                     Pad POWER IN-1(66.4mm,142mm)  Multi-Layer
+   Violation between Track (65.4mm,137.5mm)(67.3mm,137.5mm)  Top Overlay and 
+                     Pad POWER IN-3(63.2mm,137mm)  Multi-Layer
+   Violation between Track (52.7mm,137.5mm)(61mm,137.5mm)  Top Overlay and 
+                     Pad POWER IN-3(63.2mm,137mm)  Multi-Layer
+   Violation between Text "C30" (170.18mm,155.791mm)  Bottom Overlay and 
+                     Pad C32-2(168.6mm,159mm)  Bottom Layer
+   Violation between Text "C31" (164.176mm,155.791mm)  Bottom Overlay and 
+                     Pad C59-1(164.4mm,159mm)  Bottom Layer
+   Violation between Text "C31" (164.176mm,155.791mm)  Bottom Overlay and 
+                     Pad C59-2(161.6mm,159mm)  Bottom Layer
+Rule Violations :78
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (All),(All)
+   Violation between Via (189.713mm,159.461mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-U18(190.1mm,159.85mm)  Top Layer
+   Violation between Via (184.912mm,159.461mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-U12(185.3mm,159.85mm)  Top Layer
+   Violation between Via (184.912mm,160.238mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-U12(185.3mm,159.85mm)  Top Layer
+   Violation between Via (181.712mm,159.461mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-U8(182.1mm,159.85mm)  Top Layer
+   Violation between Via (180.111mm,159.461mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-U6(180.5mm,159.85mm)  Top Layer
+   Violation between Via (178.511mm,159.461mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-U4(178.9mm,159.85mm)  Top Layer
+   Violation between Via (176.098mm,159.487mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-U1(176.5mm,159.85mm)  Top Layer
+   Violation between Via (184.099mm,160.274mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-T11(184.5mm,160.65mm)  Top Layer
+   Violation between Via (184.099mm,160.274mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-T10(183.7mm,160.65mm)  Top Layer
+   Violation between Via (188.089mm,161.061mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-R15(187.7mm,161.45mm)  Top Layer
+   Violation between Via (186.512mm,161.061mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-R14(186.9mm,161.45mm)  Top Layer
+   Violation between Via (181.712mm,161.087mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-R7(181.3mm,161.45mm)  Top Layer
+   Violation between Via (180.01mm,161.9mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-R5(179.7mm,161.45mm)  Top Layer
+   Violation between Via (176.911mm,161.061mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-R2(177.3mm,161.45mm)  Top Layer
+   Violation between Via (188.112mm,162.638mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-P16(188.5mm,162.25mm)  Top Layer
+   Violation between Via (184.912mm,162.636mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-P12(185.3mm,162.25mm)  Top Layer
+   Violation between Via (189.688mm,162.662mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-N17(189.3mm,163.05mm)  Top Layer
+   Violation between Via (185.649mm,162.738mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-N13(186.1mm,163.05mm)  Top Layer
+   Violation between Via (184.912mm,163.438mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-N12(185.3mm,163.05mm)  Top Layer
+   Violation between Via (181.712mm,162.662mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-N8(182.1mm,163.05mm)  Top Layer
+   Violation between Via (180.111mm,162.662mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-N6(180.5mm,163.05mm)  Top Layer
+   Violation between Via (178.512mm,162.661mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-N4(178.9mm,163.05mm)  Top Layer
+   Violation between Via (177.712mm,162.662mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-N3(178.1mm,163.05mm)  Top Layer
+   Violation between Via (176.912mm,162.662mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-N2(177.3mm,163.05mm)  Top Layer
+   Violation between Via (188.112mm,164.236mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-M16(188.5mm,163.85mm)  Top Layer
+   Violation between Via (181.712mm,163.462mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-M8(182.1mm,163.85mm)  Top Layer
+   Violation between Via (189.713mm,164.262mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-L18(190.1mm,164.65mm)  Top Layer
+   Violation between Via (186.512mm,164.262mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-L14(186.9mm,164.65mm)  Top Layer
+   Violation between Via (180.111mm,164.262mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-L6(180.5mm,164.65mm)  Top Layer
+   Violation between Via (178.511mm,164.261mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-L4(178.9mm,164.65mm)  Top Layer
+   Violation between Via (180.111mm,165.839mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-K6(180.5mm,165.45mm)  Top Layer
+   Violation between Via (186.512mm,165.862mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-J14(186.9mm,166.25mm)  Top Layer
+   Violation between Via (179.312mm,165.862mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-J5(179.7mm,166.25mm)  Top Layer
+   Violation between Via (176.911mm,167.437mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-H2(177.3mm,167.05mm)  Top Layer
+   Violation between Via (188.112mm,167.462mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-G16(188.5mm,167.85mm)  Top Layer
+   Violation between Via (186.512mm,167.462mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-G14(186.9mm,167.85mm)  Top Layer
+   Violation between Via (180.088mm,167.462mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-G5(179.7mm,167.85mm)  Top Layer
+   Violation between Via (178.486mm,167.462mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-G3(178.1mm,167.85mm)  Top Layer
+   Violation between Via (180.111mm,169.037mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-F6(180.5mm,168.65mm)  Top Layer
+   Violation between Via (176.113mm,169.037mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-F1(176.5mm,168.65mm)  Top Layer
+   Violation between Via (188.912mm,169.062mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-E17(189.3mm,169.45mm)  Top Layer
+   Violation between Via (188.112mm,169.062mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-E16(188.5mm,169.45mm)  Top Layer
+   Violation between Via (186.512mm,169.062mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-E14(186.9mm,169.45mm)  Top Layer
+   Violation between Via (180.975mm,169.012mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-E7(181.3mm,169.45mm)  Top Layer
+   Violation between Via (180.086mm,169.836mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-E5(179.7mm,169.45mm)  Top Layer
+   Violation between Via (176.911mm,169.062mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-E2(177.3mm,169.45mm)  Top Layer
+   Violation between Via (189.687mm,170.637mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-D17(189.3mm,170.25mm)  Top Layer
+   Violation between Via (176.911mm,170.637mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-D2(177.3mm,170.25mm)  Top Layer
+   Violation between Via (188.112mm,170.663mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-C16(188.5mm,171.05mm)  Top Layer
+   Violation between Via (184.912mm,170.663mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-C12(185.3mm,171.05mm)  Top Layer
+   Violation between Via (184.875mm,171.45mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-C11(184.5mm,171.05mm)  Top Layer
+   Violation between Via (181.712mm,170.663mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-C8(182.1mm,171.05mm)  Top Layer
+   Violation between Via (180.086mm,170.663mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-C5(179.7mm,171.05mm)  Top Layer
+   Violation between Via (178.511mm,170.663mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-C4(178.9mm,171.05mm)  Top Layer
+   Violation between Via (186.512mm,172.237mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-B14(186.9mm,171.85mm)  Top Layer
+   Violation between Via (184.875mm,171.45mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-B11(184.5mm,171.85mm)  Top Layer
+   Violation between Via (181.712mm,172.237mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-B8(182.1mm,171.85mm)  Top Layer
+   Violation between Via (180.111mm,172.237mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-B6(180.5mm,171.85mm)  Top Layer
+   Violation between Via (178.486mm,172.237mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-B3(178.1mm,171.85mm)  Top Layer
+   Violation between Via (176.886mm,172.237mm) Top Layer to Bottom Layer and 
+                     Pad FPGA-B1(176.5mm,171.85mm)  Top Layer
+   Violation between Via (112.141mm,181.712mm) Top Layer to Bottom Layer and 
+                     Pad C43-2(112.6mm,180mm)  Bottom Layer
+   Violation between Via (115.799mm,196.291mm) Top Layer to Bottom Layer and 
+                     Pad C53-2(115.6mm,198mm)  Bottom Layer
+   Violation between Via (174.8mm,133.525mm) Top Layer to Bottom Layer and 
+                     Via (174.203mm,133.426mm) Top Layer to Bottom Layer
+   Violation between Area Fill (57.426mm,192.095mm) (58.95mm,195.905mm)  Top Solder and 
+                     Via (59.258mm,194.65mm) Top Layer to Bottom Layer
+Rule Violations :64
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Via (177.2mm,137.77mm) Top Layer to Bottom Layer and 
+                     Via (177.2mm,138.201mm) Top Layer to Bottom Layer
+   Violation between Via (180.111mm,163.449mm) Top Layer to Bottom Layer and 
+                     Via (180.01mm,163.449mm) Top Layer to Bottom Layer
+   Violation between Via (117.577mm,187.376mm) Top Layer to Bottom Layer and 
+                     Via (117.602mm,187.401mm) Top Layer to Bottom Layer
+Rule Violations :3
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Assembly Testpoint Style (Under Component=Yes) (All)
+Rule Violations :0
+
+Processing Rule : Assembly Testpoint Usage (Valid =One Required, Allow multiple per net=No) (All)
+   Violation between Assembly Testpoint Usage: Net USB.VBUS_ENABLE
+   Violation between Assembly Testpoint Usage: Net USB.ID
+   Violation between Assembly Testpoint Usage: Net USB.DP
+   Violation between Assembly Testpoint Usage: Net USB.DM
+   Violation between Assembly Testpoint Usage: Net UART1.TX
+   Violation between Assembly Testpoint Usage: Net UART1.RX
+   Violation between Assembly Testpoint Usage: Net UART0.TX
+   Violation between Assembly Testpoint Usage: Net UART0.RX
+   Violation between Assembly Testpoint Usage: Net UART0.CTRL_TX
+   Violation between Assembly Testpoint Usage: Net UART0.CTRL_RX
+   Violation between Assembly Testpoint Usage: Net TOGGLE OUT
+   Violation between Assembly Testpoint Usage: Net SW7
+   Violation between Assembly Testpoint Usage: Net SW6
+   Violation between Assembly Testpoint Usage: Net SW5
+   Violation between Assembly Testpoint Usage: Net SW4
+   Violation between Assembly Testpoint Usage: Net SW3
+   Violation between Assembly Testpoint Usage: Net SW2
+   Violation between Assembly Testpoint Usage: Net SW1
+   Violation between Assembly Testpoint Usage: Net SW0
+   Violation between Assembly Testpoint Usage: Net SD.DO
+   Violation between Assembly Testpoint Usage: Net SD.DI
+   Violation between Assembly Testpoint Usage: Net SD.CS
+   Violation between Assembly Testpoint Usage: Net SD.CLK
+   Violation between Assembly Testpoint Usage: Net RESETN
+   Violation between Assembly Testpoint Usage: Net NetUSB_D_1
+   Violation between Assembly Testpoint Usage: Net NetSP_H_12
+   Violation between Assembly Testpoint Usage: Net NetSP_H_10
+   Violation between Assembly Testpoint Usage: Net NetSP_H_8
+   Violation between Assembly Testpoint Usage: Net NetSP_H_6
+   Violation between Assembly Testpoint Usage: Net NetSP_CON_9
+   Violation between Assembly Testpoint Usage: Net NetSP_CON_8
+   Violation between Assembly Testpoint Usage: Net NetSP_CON_7
+   Violation between Assembly Testpoint Usage: Net NetSP_CON_6
+   Violation between Assembly Testpoint Usage: Net NetSP_CON_4
+   Violation between Assembly Testpoint Usage: Net NetSP_CON_3
+   Violation between Assembly Testpoint Usage: Net NetSP_CON_2
+   Violation between Assembly Testpoint Usage: Net NetSP_CON_1
+   Violation between Assembly Testpoint Usage: Net NetR39_1
+   Violation between Assembly Testpoint Usage: Net NetR38_1
+   Violation between Assembly Testpoint Usage: Net NetR37_2
+   Violation between Assembly Testpoint Usage: Net NetR36_1
+   Violation between Assembly Testpoint Usage: Net NetR35_2
+   Violation between Assembly Testpoint Usage: Net NetR34_1
+   Violation between Assembly Testpoint Usage: Net NetR33_1
+   Violation between Assembly Testpoint Usage: Net NetR32_2
+   Violation between Assembly Testpoint Usage: Net NetR29_1
+   Violation between Assembly Testpoint Usage: Net NetPSU_H_4
+   Violation between Assembly Testpoint Usage: Net NetPSU_H_2
+   Violation between Assembly Testpoint Usage: Net NetLED22_1
+   Violation between Assembly Testpoint Usage: Net NetLED21_1
+   Violation between Assembly Testpoint Usage: Net NetLED20_1
+   Violation between Assembly Testpoint Usage: Net NetLED19_1
+   Violation between Assembly Testpoint Usage: Net NetLED18_1
+   Violation between Assembly Testpoint Usage: Net NetLED17_1
+   Violation between Assembly Testpoint Usage: Net NetLED16_1
+   Violation between Assembly Testpoint Usage: Net NetLED15_1
+   Violation between Assembly Testpoint Usage: Net NetLED14_1
+   Violation between Assembly Testpoint Usage: Net NetLED13_1
+   Violation between Assembly Testpoint Usage: Net NetLED12_1
+   Violation between Assembly Testpoint Usage: Net NetLED11_1
+   Violation between Assembly Testpoint Usage: Net NetLED10_1
+   Violation between Assembly Testpoint Usage: Net NetLED9_1
+   Violation between Assembly Testpoint Usage: Net NetLED8_1
+   Violation between Assembly Testpoint Usage: Net NetLED7_1
+   Violation between Assembly Testpoint Usage: Net NetLED6_1
+   Violation between Assembly Testpoint Usage: Net NetLED5_1
+   Violation between Assembly Testpoint Usage: Net NetLED2_1
+   Violation between Assembly Testpoint Usage: Net NetJ1_SH
+   Violation between Assembly Testpoint Usage: Net NetJ1_4
+   Violation between Assembly Testpoint Usage: Net NetJ1_3
+   Violation between Assembly Testpoint Usage: Net NetJ1_2
+   Violation between Assembly Testpoint Usage: Net NetJ1_1
+   Violation between Assembly Testpoint Usage: Net NetFPGA_V17
+   Violation between Assembly Testpoint Usage: Net NetFPGA_V2
+   Violation between Assembly Testpoint Usage: Net NetFPGA_G11
+   Violation between Assembly Testpoint Usage: Net NetFPGA_G8
+   Violation between Assembly Testpoint Usage: Net NetFPGA_F12
+   Violation between Assembly Testpoint Usage: Net NetFPGA_F11
+   Violation between Assembly Testpoint Usage: Net NetFPGA_F10
+   Violation between Assembly Testpoint Usage: Net NetFPGA_F8
+   Violation between Assembly Testpoint Usage: Net NetFPGA_F7
+   Violation between Assembly Testpoint Usage: Net NetFPGA_E12
+   Violation between Assembly Testpoint Usage: Net NetFPGA_E11
+   Violation between Assembly Testpoint Usage: Net NetFPGA_E8
+   Violation between Assembly Testpoint Usage: Net NetFPGA_E7
+   Violation between Assembly Testpoint Usage: Net NetFPGA_E6
+   Violation between Assembly Testpoint Usage: Net NetFPGA_D12
+   Violation between Assembly Testpoint Usage: Net NetFPGA_C12
+   Violation between Assembly Testpoint Usage: Net NetE5_1
+   Violation between Assembly Testpoint Usage: Net NetE4_1
+   Violation between Assembly Testpoint Usage: Net NetE3_2
+   Violation between Assembly Testpoint Usage: Net NetE2_2
+   Violation between Assembly Testpoint Usage: Net NetE2_1
+   Violation between Assembly Testpoint Usage: Net NetE1_2
+   Violation between Assembly Testpoint Usage: Net NetE1_1
+   Violation between Assembly Testpoint Usage: Net NetC19_1
+   Violation between Assembly Testpoint Usage: Net NetC18_1
+   Violation between Assembly Testpoint Usage: Net NetC17_1
+   Violation between Assembly Testpoint Usage: Net NetC16_1
+   Violation between Assembly Testpoint Usage: Net NetC11_2
+   Violation between Assembly Testpoint Usage: Net NetC4_2
+   Violation between Assembly Testpoint Usage: Net LED15
+   Violation between Assembly Testpoint Usage: Net LED14
+   Violation between Assembly Testpoint Usage: Net LED13
+   Violation between Assembly Testpoint Usage: Net LED12
+   Violation between Assembly Testpoint Usage: Net LED11
+   Violation between Assembly Testpoint Usage: Net LED10
+   Violation between Assembly Testpoint Usage: Net LED9
+   Violation between Assembly Testpoint Usage: Net LED8
+   Violation between Assembly Testpoint Usage: Net LED7
+   Violation between Assembly Testpoint Usage: Net LED6
+   Violation between Assembly Testpoint Usage: Net LED5
+   Violation between Assembly Testpoint Usage: Net LED4
+   Violation between Assembly Testpoint Usage: Net LED3
+   Violation between Assembly Testpoint Usage: Net LED2
+   Violation between Assembly Testpoint Usage: Net LED1
+   Violation between Assembly Testpoint Usage: Net LED0
+   Violation between Assembly Testpoint Usage: Net JTAG.TMS
+   Violation between Assembly Testpoint Usage: Net JTAG.TDO
+   Violation between Assembly Testpoint Usage: Net JTAG.TDI
+   Violation between Assembly Testpoint Usage: Net JTAG.TCK
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS15
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS14
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS13
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS12
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS11
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS10
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS9
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS8
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS7
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS6
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS5
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS4
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS3
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS2
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS1
+   Violation between Assembly Testpoint Usage: Net INST_MEM1.BUS0
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS15
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS14
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS13
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS12
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS11
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS10
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS9
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS8
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS7
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS6
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS5
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS4
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS3
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS2
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS1
+   Violation between Assembly Testpoint Usage: Net INST_MEM0.BUS0
+   Violation between Assembly Testpoint Usage: Net INIT
+   Violation between Assembly Testpoint Usage: Net HFXTAL.P
+Rule Violations :155
+
+Processing Rule : Fabrication Testpoint Style (Under Component=Yes) (All)
+Rule Violations :0
+
+Processing Rule : Fabrication Testpoint Usage (Valid =One Required, Allow multiple per net=No) (All)
+   Violation between Fabrication Testpoint Usage: Net USB.VBUS_ENABLE
+   Violation between Fabrication Testpoint Usage: Net USB.ID
+   Violation between Fabrication Testpoint Usage: Net USB.DP
+   Violation between Fabrication Testpoint Usage: Net USB.DM
+   Violation between Fabrication Testpoint Usage: Net UART1.TX
+   Violation between Fabrication Testpoint Usage: Net UART1.RX
+   Violation between Fabrication Testpoint Usage: Net UART0.TX
+   Violation between Fabrication Testpoint Usage: Net UART0.RX
+   Violation between Fabrication Testpoint Usage: Net UART0.CTRL_TX
+   Violation between Fabrication Testpoint Usage: Net UART0.CTRL_RX
+   Violation between Fabrication Testpoint Usage: Net TOGGLE OUT
+   Violation between Fabrication Testpoint Usage: Net SW7
+   Violation between Fabrication Testpoint Usage: Net SW6
+   Violation between Fabrication Testpoint Usage: Net SW5
+   Violation between Fabrication Testpoint Usage: Net SW4
+   Violation between Fabrication Testpoint Usage: Net SW3
+   Violation between Fabrication Testpoint Usage: Net SW2
+   Violation between Fabrication Testpoint Usage: Net SW1
+   Violation between Fabrication Testpoint Usage: Net SW0
+   Violation between Fabrication Testpoint Usage: Net SD.DO
+   Violation between Fabrication Testpoint Usage: Net SD.DI
+   Violation between Fabrication Testpoint Usage: Net SD.CS
+   Violation between Fabrication Testpoint Usage: Net SD.CLK
+   Violation between Fabrication Testpoint Usage: Net RESETN
+   Violation between Fabrication Testpoint Usage: Net NetUSB_D_1
+   Violation between Fabrication Testpoint Usage: Net NetSP_H_12
+   Violation between Fabrication Testpoint Usage: Net NetSP_H_10
+   Violation between Fabrication Testpoint Usage: Net NetSP_H_8
+   Violation between Fabrication Testpoint Usage: Net NetSP_H_6
+   Violation between Fabrication Testpoint Usage: Net NetSP_CON_9
+   Violation between Fabrication Testpoint Usage: Net NetSP_CON_8
+   Violation between Fabrication Testpoint Usage: Net NetSP_CON_7
+   Violation between Fabrication Testpoint Usage: Net NetSP_CON_6
+   Violation between Fabrication Testpoint Usage: Net NetSP_CON_4
+   Violation between Fabrication Testpoint Usage: Net NetSP_CON_3
+   Violation between Fabrication Testpoint Usage: Net NetSP_CON_2
+   Violation between Fabrication Testpoint Usage: Net NetSP_CON_1
+   Violation between Fabrication Testpoint Usage: Net NetR39_1
+   Violation between Fabrication Testpoint Usage: Net NetR38_1
+   Violation between Fabrication Testpoint Usage: Net NetR37_2
+   Violation between Fabrication Testpoint Usage: Net NetR36_1
+   Violation between Fabrication Testpoint Usage: Net NetR35_2
+   Violation between Fabrication Testpoint Usage: Net NetR34_1
+   Violation between Fabrication Testpoint Usage: Net NetR33_1
+   Violation between Fabrication Testpoint Usage: Net NetR32_2
+   Violation between Fabrication Testpoint Usage: Net NetR29_1
+   Violation between Fabrication Testpoint Usage: Net NetPSU_H_4
+   Violation between Fabrication Testpoint Usage: Net NetPSU_H_2
+   Violation between Fabrication Testpoint Usage: Net NetLED22_1
+   Violation between Fabrication Testpoint Usage: Net NetLED21_1
+   Violation between Fabrication Testpoint Usage: Net NetLED20_1
+   Violation between Fabrication Testpoint Usage: Net NetLED19_1
+   Violation between Fabrication Testpoint Usage: Net NetLED18_1
+   Violation between Fabrication Testpoint Usage: Net NetLED17_1
+   Violation between Fabrication Testpoint Usage: Net NetLED16_1
+   Violation between Fabrication Testpoint Usage: Net NetLED15_1
+   Violation between Fabrication Testpoint Usage: Net NetLED14_1
+   Violation between Fabrication Testpoint Usage: Net NetLED13_1
+   Violation between Fabrication Testpoint Usage: Net NetLED12_1
+   Violation between Fabrication Testpoint Usage: Net NetLED11_1
+   Violation between Fabrication Testpoint Usage: Net NetLED10_1
+   Violation between Fabrication Testpoint Usage: Net NetLED9_1
+   Violation between Fabrication Testpoint Usage: Net NetLED8_1
+   Violation between Fabrication Testpoint Usage: Net NetLED7_1
+   Violation between Fabrication Testpoint Usage: Net NetLED6_1
+   Violation between Fabrication Testpoint Usage: Net NetLED5_1
+   Violation between Fabrication Testpoint Usage: Net NetLED2_1
+   Violation between Fabrication Testpoint Usage: Net NetJ1_SH
+   Violation between Fabrication Testpoint Usage: Net NetJ1_4
+   Violation between Fabrication Testpoint Usage: Net NetJ1_3
+   Violation between Fabrication Testpoint Usage: Net NetJ1_2
+   Violation between Fabrication Testpoint Usage: Net NetJ1_1
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_V17
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_V2
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_G11
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_G8
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_F12
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_F11
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_F10
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_F8
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_F7
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_E12
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_E11
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_E8
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_E7
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_E6
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_D12
+   Violation between Fabrication Testpoint Usage: Net NetFPGA_C12
+   Violation between Fabrication Testpoint Usage: Net NetE5_1
+   Violation between Fabrication Testpoint Usage: Net NetE4_1
+   Violation between Fabrication Testpoint Usage: Net NetE3_2
+   Violation between Fabrication Testpoint Usage: Net NetE2_2
+   Violation between Fabrication Testpoint Usage: Net NetE2_1
+   Violation between Fabrication Testpoint Usage: Net NetE1_2
+   Violation between Fabrication Testpoint Usage: Net NetE1_1
+   Violation between Fabrication Testpoint Usage: Net NetC19_1
+   Violation between Fabrication Testpoint Usage: Net NetC18_1
+   Violation between Fabrication Testpoint Usage: Net NetC17_1
+   Violation between Fabrication Testpoint Usage: Net NetC16_1
+   Violation between Fabrication Testpoint Usage: Net NetC11_2
+   Violation between Fabrication Testpoint Usage: Net NetC4_2
+   Violation between Fabrication Testpoint Usage: Net LED15
+   Violation between Fabrication Testpoint Usage: Net LED14
+   Violation between Fabrication Testpoint Usage: Net LED13
+   Violation between Fabrication Testpoint Usage: Net LED12
+   Violation between Fabrication Testpoint Usage: Net LED11
+   Violation between Fabrication Testpoint Usage: Net LED10
+   Violation between Fabrication Testpoint Usage: Net LED9
+   Violation between Fabrication Testpoint Usage: Net LED8
+   Violation between Fabrication Testpoint Usage: Net LED7
+   Violation between Fabrication Testpoint Usage: Net LED6
+   Violation between Fabrication Testpoint Usage: Net LED5
+   Violation between Fabrication Testpoint Usage: Net LED4
+   Violation between Fabrication Testpoint Usage: Net LED3
+   Violation between Fabrication Testpoint Usage: Net LED2
+   Violation between Fabrication Testpoint Usage: Net LED1
+   Violation between Fabrication Testpoint Usage: Net LED0
+   Violation between Fabrication Testpoint Usage: Net JTAG.TMS
+   Violation between Fabrication Testpoint Usage: Net JTAG.TDO
+   Violation between Fabrication Testpoint Usage: Net JTAG.TDI
+   Violation between Fabrication Testpoint Usage: Net JTAG.TCK
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS15
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS14
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS13
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS12
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS11
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS10
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS9
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS8
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS7
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS6
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS5
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS4
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS3
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS2
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS1
+   Violation between Fabrication Testpoint Usage: Net INST_MEM1.BUS0
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS15
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS14
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS13
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS12
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS11
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS10
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS9
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS8
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS7
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS6
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS5
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS4
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS3
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS2
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS1
+   Violation between Fabrication Testpoint Usage: Net INST_MEM0.BUS0
+   Violation between Fabrication Testpoint Usage: Net INIT
+   Violation between Fabrication Testpoint Usage: Net HFXTAL.P
+Rule Violations :155
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Track (180.95mm,156.718mm)(180.95mm,161.1mm)  Top Layer and 
+                     Via (180.899mm,159.449mm) Top Layer to Bottom Layer
+   Violation between Track (180.899mm,159.449mm)(181.3mm,159.85mm)  Top Layer and 
+                     Track (180.95mm,156.718mm)(180.95mm,161.1mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.303mm,160.198mm)  Top Layer and 
+                     Track (182.9mm,160.379mm)(183.37mm,159.909mm)  Top Layer
+   Violation between Track (182.552mm,160.198mm)(183.303mm,160.198mm)  Top Layer and 
+                     Track (182.9mm,160.379mm)(183.37mm,159.909mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.391mm,159.38mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.37mm,159.909mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.303mm,160.198mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.37mm,159.909mm)  Top Layer
+   Violation between Track (183.391mm,159.38mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.446mm,159.436mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.391mm,159.38mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.446mm,159.436mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.303mm,160.198mm)  Top Layer and 
+                     Track (183.37mm,159.512mm)(183.446mm,159.436mm)  Top Layer
+   Violation between Track (183.391mm,159.38mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (183.446mm,159.436mm)(183.896mm,159.436mm)  Top Layer
+   Violation between Track (183.303mm,159.468mm)(183.391mm,159.38mm)  Top Layer and 
+                     Track (183.446mm,159.436mm)(183.896mm,159.436mm)  Top Layer
+   Violation between Track (183.391mm,159.38mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (183.896mm,159.436mm)(184.15mm,159.182mm)  Top Layer
+   Violation between Track (184.048mm,157.988mm)(184.048mm,159.38mm)  Top Layer and 
+                     Track (183.896mm,159.436mm)(184.15mm,159.182mm)  Top Layer
+   Violation between Track (183.871mm,158.115mm)(185.014mm,158.115mm)  Top Layer and 
+                     Track (184.048mm,157.988mm)(184.048mm,159.38mm)  Top Layer
+   Violation between Track (183.083mm,163.5mm)(183.363mm,163.779mm)  Top Layer and 
+                     Track (183.236mm,162.586mm)(183.236mm,164.033mm)  Top Layer
+Rule Violations :15
+
+
+Violations Detected : 500
+Time Elapsed        : 00:00:11
