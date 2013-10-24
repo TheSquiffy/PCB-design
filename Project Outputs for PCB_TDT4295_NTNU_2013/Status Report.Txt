@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_TDT4295_NTNU_2013.PrjPcb]
+   Generated File[barricelli-RoundHoles.TXT]
+   Generated File[barricelli-SlotHoles.TXT]
+   Generated File[barricelli.LDP]
+   Generated File[barricelli.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:42:44 On 24.10.2013
