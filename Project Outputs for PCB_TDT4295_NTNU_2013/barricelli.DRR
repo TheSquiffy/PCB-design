@@ -1,20 +1,19 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: barricelli.PcbDoc   24.10.2013  13:42:43
+NCDrill File Report For: barricelli.PcbDoc   28.10.2013  17:59:11
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : barricelli-RoundHoles.TXT
-ASCII SlotHoles File : barricelli-SlotHoles.TXT
+ASCII RoundHoles File : barricelli.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.2mm (7.874mil)         Round          911              3039.75 mm (119.68 Inch)
-T2        0.8mm (31.496mil)        Slot           4                7374.25 mm (290.32 Inch)
-T3        0.9mm (35.433mil)        Round          278              1141.06 mm (44.92 Inch)
-T4        1mm (39.37mil)           Round          12               61.23 mm (2.41 Inch)
-T5        1.09mm (42.913mil)       Round          9                22.55 mm (0.89 Inch)
+T1        0.2mm (7.874mil)         Round          911              3077.88 mm (121.18 Inch)
+T2        0.9mm (35.433mil)        Round          278              1232.68 mm (48.53 Inch)
+T3        1mm (39.37mil)           Round          12               61.23 mm (2.41 Inch)
+T4        1.09mm (42.913mil)       Round          9                30.86 mm (1.21 Inch)
+T5        1.5mm (59.055mil)        Round          4                17.60 mm (0.69 Inch)
 T6        3.26mm (128.346mil)      Round          2                24.99 mm (0.98 Inch)
 ---------------------------------------------------------------------------
-Totals                                            1216             11663.83 mm (459.21 Inch)
+Totals                                            1216             4445.24 mm (175.01 Inch)
 
 Total Processing Time (hh:mm:ss) : 00:00:01

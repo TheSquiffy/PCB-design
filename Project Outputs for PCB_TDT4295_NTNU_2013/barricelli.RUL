@@ -1,8 +1,8 @@
-DRC Rules Export File for PCB: C:\Users\trondrud\Documents\GitHub\PCB-design\barricelli.PcbDoc
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_FPGA_BGA_Breakout|Scope=Board|Minimum=4.02
-RuleKind=Clearance|RuleName=BGA_clearance|Scope=Board|Minimum=10.00
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=1.97
+DRC Rules Export File for PCB: F:\Users\eirik\datamaskin\PCB-design\barricelli.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_2|Scope=Board|Minimum=3.15
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=BGA_clearance|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_FPGA_BGA_Breakout|Scope=Board|Minimum=4.02
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

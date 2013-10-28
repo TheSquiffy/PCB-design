@@ -1,3 +1,2 @@
-Layer Pairs Export File for PCB: C:\Users\trondrud\Documents\GitHub\PCB-design\barricelli.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=barricelli-roundholes.txt|LayerPairs=gtl,gbl
-LayersSetName=Top_Bot_Slot_Holes|DrillFile=barricelli-slotholes.txt|LayerPairs=gtl,gbl
+Layer Pairs Export File for PCB: F:\Users\eirik\datamaskin\PCB-design\barricelli.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=barricelli.txt|LayerPairs=gtl,gbl

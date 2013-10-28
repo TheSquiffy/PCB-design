@@ -432,22 +432,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document26]
-DocumentPath=Libraries\National Semiconductor\NSC Voltage Reference.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document27]
 DocumentPath=microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +447,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document28]
+[Document27]
 DocumentPath=microcontroller.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +463,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document29]
+[Document28]
 DocumentPath=top_level.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -495,7 +479,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document30]
+[Document29]
 DocumentPath=switches\switch-toggle.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -511,7 +495,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document31]
+[Document30]
 DocumentPath=oscillator\oscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -527,7 +511,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document32]
+[Document31]
 DocumentPath=crystal\crystal.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -543,7 +527,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document33]
+[Document32]
 DocumentPath=memorychip\memorychip-component.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +543,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document34]
+[Document33]
 DocumentPath=memorychip\memorychip-footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +559,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document35]
+[Document34]
 DocumentPath=psu_toggle_switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -591,7 +575,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document36]
+[Document35]
 DocumentPath=memorychip_schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -607,7 +591,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document37]
+[Document36]
 DocumentPath=leds_logo.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -623,7 +607,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document38]
+[Document37]
 DocumentPath=leds.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -639,7 +623,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document39]
+[Document38]
 DocumentPath=buttons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -655,7 +639,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document40]
+[Document39]
 DocumentPath=Libraries\Xilinx_Spartan-6\Xilinx Spartan-6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -671,7 +655,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document41]
+[Document40]
 DocumentPath=switches\switch-button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -687,7 +671,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document42]
+[Document41]
 DocumentPath=FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -703,7 +687,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document43]
+[Document42]
 DocumentPath=serial_port.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -719,7 +703,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document44]
+[Document43]
 DocumentPath=memorychip_schematic.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +719,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document45]
+[Document44]
 DocumentPath=switches\switch-button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +735,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document46]
+[Document45]
 DocumentPath=Con Card.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -767,7 +751,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document47]
+[Document46]
 DocumentPath=Libraries\USB\PBL - SMD Packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -783,7 +767,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document48]
+[Document47]
 DocumentPath=capacitors\cap-pol-size-B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -799,7 +783,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document49]
+[Document48]
 DocumentPath=capacitors\cap-pol-size-B.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -815,7 +799,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document50]
+[Document49]
 DocumentPath=oscillator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +815,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document51]
+[Document50]
 DocumentPath=crystal.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,7 +831,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document52]
+[Document51]
 DocumentPath=crystal.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -863,7 +847,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document53]
+[Document52]
 DocumentPath=microcontroller_reset_button.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -879,7 +863,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document54]
+[Document53]
 DocumentPath=crystal\crystal-footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -895,7 +879,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document55]
+[Document54]
 DocumentPath=oscillator\oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -911,7 +895,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document56]
+[Document55]
 DocumentPath=switches\switch-toggle.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -927,7 +911,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document57]
+[Document56]
 DocumentPath=headers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -943,7 +927,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document58]
+[Document57]
 DocumentPath=headers.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -959,7 +943,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document59]
+[Document58]
 DocumentPath=sdsheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -975,7 +959,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document60]
+[Document59]
 DocumentPath=barricelli.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -991,7 +975,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document61]
+[Document60]
 DocumentPath=USBdevice.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1007,7 +991,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document62]
+[Document61]
 DocumentPath=librarySDcard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1007,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document63]
+[Document62]
 DocumentPath=PCB_TDT4295_NTNU_2013.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1039,7 +1023,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document64]
+[Document63]
 DocumentPath=sdsheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1055,7 +1039,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document65]
+[Document64]
 DocumentPath=USBdevice.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1071,7 +1055,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document66]
+[Document65]
 DocumentPath=Libraries\WE\Altium_WE_eiSos_WE-CBF.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1087,7 +1071,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document67]
+[Document66]
 DocumentPath=Libraries\WE\Altium_WE_eiSos_WE-CNSW.intlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1103,8 +1087,24 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document68]
+[Document67]
 DocumentPath=Libraries\WE\WE-TVS.intlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document68]
+DocumentPath=Libraries\National Semiconductor\NSC Voltage Reference.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1183,6 +1183,38 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document73]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document74]
+DocumentPath=nc-drill.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli-RoundHoles.TXT
 DItemRevisionGUID=
@@ -1220,43 +1252,51 @@ DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GBS
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GM16
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GP1
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GP2
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GTL
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GTO
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GTS
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.LDP
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.REP
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1272,7 +1312,7 @@ OutputJobsCount=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Lexmark X654de (MS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1403,7 +1443,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Lexmark X654de (MS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -1424,7 +1464,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Lexmark X654de (MS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -1540,7 +1580,7 @@ PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Lexmark X654de (MS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1562,7 +1602,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Lexmark X654de (MS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Drill
 OutputName1=Drill Drawing/Guides
@@ -1617,12 +1657,12 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842753~1,16777218~1,16777219~1,16777220~1,16777221~1,16842754~1,16842751~1,16973835~1,16908304~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842753~1,16777218~1,16777219~1,16777220~1,16777221~1,16842754~1,16842751~1,16973835~1,16973831~1,16908304~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Lexmark X654de (MS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1659,7 +1699,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Lexmark X654de (MS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1839,7 +1879,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Lexmark X654de (MS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1868,7 +1908,7 @@ OutputDefault4=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Lexmark X654de (MS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ExportSTEP
 OutputName1=Export STEP
