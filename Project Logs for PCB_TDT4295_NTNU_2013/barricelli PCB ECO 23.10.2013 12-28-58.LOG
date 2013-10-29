@@ -1,2 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=USB_D-2
-Added Pin To Net: NetName=USB.ID Pin=USB_D-2

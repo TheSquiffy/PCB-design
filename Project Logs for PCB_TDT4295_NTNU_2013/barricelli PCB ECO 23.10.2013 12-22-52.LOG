@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=USB.ID Pin=J1-5
-Added Pin To Net: NetName=GND Pin=J1-5
-Added Pin To Net: NetName=GND Pin=SCU-A8
-Added Pin To Net: NetName=GND Pin=SCU_USB_H-7
-Change Net Name : Old Net Name=GND New Net Name=H_USB_ID
