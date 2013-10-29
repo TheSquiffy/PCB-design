@@ -1152,86 +1152,78 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.G1
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.G2
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.G3
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.G4
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.REP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for PCB_TDT4295_NTNU_2013\barricelli.TXT
 DItemRevisionGUID=
 
