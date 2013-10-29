@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_TDT4295_NTNU_2013.PrjPcb]
+   Generated File[barricelli.GTL]
+   Generated File[barricelli.GP1]
+   Generated File[barricelli.G1]
+   Generated File[barricelli.G2]
+   Generated File[barricelli.G3]
+   Generated File[barricelli.G4]
+   Generated File[barricelli.GP2]
+   Generated File[barricelli.GBL]
+   Generated File[barricelli.GTO]
+   Generated File[barricelli.GTS]
+   Generated File[barricelli.GBS]
+   Generated File[barricelli.GBO]
+   Generated File[barricelli.GM16]
+   Generated File[barricelli.RUL]
+   Generated File[barricelli.EXTREP]
+   Generated File[barricelli.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 14:04:58 On 29.10.2013
