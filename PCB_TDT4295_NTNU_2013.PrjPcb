@@ -1120,22 +1120,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document69]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document70]
 DocumentPath=decoupling.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1151,7 +1135,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document71]
+[Document70]
 DocumentPath=barricelli-gerber.cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1167,7 +1151,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document72]
+[Document71]
 DocumentPath=barricelli-ncdrill.cam
 AnnotationEnabled=1
 AnnotateStartValue=1
